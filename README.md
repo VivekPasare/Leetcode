@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VivekPasare/Leetcode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/VivekPasare/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/VivekPasare/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VivekPasare/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VivekPasare/Leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/VivekPasare/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
